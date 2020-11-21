@@ -1,8 +1,6 @@
 ![alt text](https://i.imgur.com/F3X1lLj.png)
 
-# IP-Sorter
-
-Simple C# IP Location sorter with a few features:
+Simple C# & C++ communication method:
 - City, Timezone, Country, etc.
 - Clean and wide results.
 
