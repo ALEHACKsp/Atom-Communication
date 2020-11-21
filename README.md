@@ -1,10 +1,9 @@
 ![alt text](https://i.imgur.com/F3X1lLj.png)
 
 Simple C# & C++ communication method:
-- City, Timezone, Country, etc.
-- Clean and wide results.
-
-
+- Undetected on Easy Anti Cheat & BattlEye
+- Instant requests and responses
+- Most simplest C# and C++ bridge
 
 ## Instructions
 
@@ -18,6 +17,5 @@ Simple C# & C++ communication method:
 
 ## Credits
 
-- IP-API Creators
-- Interpreter#1338 (Me)
-- Builder & Greek (Being cuties)
+- ZeraX (https://github.com/furiosdestruct)
+- Interpreter#1337 (Me)
