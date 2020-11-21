@@ -5,13 +5,12 @@ Simple C# & C++ communication method:
 - Instant requests and responses
 - Most simplest C# and C++ bridge
 
-## Instructions
+## Info
 
-1. Load the array with your proxies/ips.
-2. Build and run the solution (x64/Release).
-3. Export all results.
+Atom is for communicating between C# and C++ softwares, for example if you've made a UI in C# you can press a button
+and in the C++ console it would detect that the C# UI pressed a button. Pretty simple and easy to setup.
 
-## Image
+## Video
 
 ![alt text](https://i.imgur.com/uVCm5AA.png)
 
