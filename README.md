@@ -12,7 +12,7 @@ and in the C++ console it would detect that the C# UI pressed a button. Pretty s
 
 ## Video
 
-[![Watch the video](https://i.imgur.com/QwCSTjc.png)](https://youtu.be/RNVrfJ-AN1c)
+[![Watch the video](https://i.imgur.com/T9nHcp8.png)](https://youtu.be/RNVrfJ-AN1c)
 
 
 ## Credits
