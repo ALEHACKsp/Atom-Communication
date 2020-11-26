@@ -1,0 +1,7 @@
+C:\Users\Inter\source\repos\C++\CSharp\bin\Release\CSharp.exe.config
+C:\Users\Inter\source\repos\C++\CSharp\bin\Release\CSharp.exe
+C:\Users\Inter\source\repos\C++\CSharp\bin\Release\CSharp.pdb
+C:\Users\Inter\source\repos\C++\CSharp\obj\Release\CSharp.csprojAssemblyReference.cache
+C:\Users\Inter\source\repos\C++\CSharp\obj\Release\CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Inter\source\repos\C++\CSharp\obj\Release\CSharp.exe
+C:\Users\Inter\source\repos\C++\CSharp\obj\Release\CSharp.pdb

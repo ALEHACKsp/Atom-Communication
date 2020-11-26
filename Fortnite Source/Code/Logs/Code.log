@@ -1,0 +1,33 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(453,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  dllmain.cpp
+C:\Users\Inter\Desktop\Vault\Fortnite\DLL\Code\structs.h(100,1): warning C4267: '=': conversion from 'size_t' to 'int32_t', possible loss of data
+C:\Users\Inter\Desktop\Vault\Fortnite\DLL\Code\Feed.h(36,9): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\Inter\Desktop\Vault\Fortnite\DLL\Code\Feed.h(36,9): message : placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+C:\Users\Inter\Desktop\Vault\Fortnite\DLL\Code\Feed.h(53,21): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\Inter\Desktop\Vault\Fortnite\DLL\Code\Feed.h(53,21): message : placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+C:\Users\Inter\Desktop\Vault\Fortnite\DLL\Code\main.h(215,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Inter\Desktop\Vault\Fortnite\DLL\Code\main.h(279,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Inter\Desktop\Vault\Fortnite\DLL\Code\DX11.h(134,44): warning C4129: 'W': unrecognized character escape sequence
+C:\Users\Inter\Desktop\Vault\Fortnite\DLL\Code\DX11.h(134,44): warning C4129: 'F': unrecognized character escape sequence
+C:\Users\Inter\Desktop\Vault\Fortnite\DLL\Code\DX11.h(134,44): warning C4129: 'A': unrecognized character escape sequence
+C:\Users\Inter\Desktop\Vault\Fortnite\DLL\Code\DX11.h(141,136): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Inter\Desktop\Vault\Fortnite\DLL\Code\DX11.h(141,120): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Inter\Desktop\Vault\Fortnite\DLL\Code\DX11.h(141,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Inter\Desktop\Vault\Fortnite\DLL\Code\DX11.h(144,73): warning C4244: 'argument': conversion from 'Ret' to 'float', possible loss of data
+          with
+          [
+              Ret=int
+          ]
+C:\Users\Inter\Desktop\Vault\Fortnite\DLL\Code\DX11.h(144,35): warning C4244: 'argument': conversion from 'Ret' to 'float', possible loss of data
+          with
+          [
+              Ret=int
+          ]
+  Generating code
+C:\Users\Inter\Desktop\Vault\Fortnite\DLL\Code\Hooks.h(21): warning C4715: 'Hooking::ProcessEvent': not all control paths return a value
+  287 of 1634 functions (17.6%) were compiled, the rest were copied from previous compilation.
+    273 functions were new in current compilation
+    9 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Code.vcxproj -> C:\Users\Inter\Desktop\Vault\Fortnite\DLL\Code\..\Build\Build.dll
