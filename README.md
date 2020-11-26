@@ -1,14 +1,15 @@
 ![alt text](https://i.imgur.com/F3X1lLj.png)
 
 Simple C# & C++ communication method:
-- Undetected on Easy Anti Cheat & BattlEye
+- Detected on Easy Anti Cheat & BattlEye
 - Instant requests and responses
 - Most simplest C# and C++ bridge
 
 ## Info
 
-Atom is for communicating between C# and C++ softwares, for example if you've made a UI in C# you can press a button
-and in the C++ console it would detect that the C# UI pressed a button. Pretty simple and easy to setup.
+Released due to some people getting a hold of it who weren't allowed. I've also decided
+to release the Rapid Aim (Fortnite) base along with it. The source is scrapped and will
+not work, sorry not sorry but the Fortnite community is a joke **All code by ZeraX**.
 
 ## Video
 
@@ -17,5 +18,5 @@ and in the C++ console it would detect that the C# UI pressed a button. Pretty s
 
 ## Credits
 
-- ZeraX (https://github.com/furiosdestruct)
-- Interpreter#1337 (Me)
+- ZeraX (https://github.com/furiosdestruct) - Main programmer/base writer
+- Interpreter#1337 (Me) - Cleaning up code
