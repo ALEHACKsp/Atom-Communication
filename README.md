@@ -12,7 +12,8 @@ and in the C++ console it would detect that the C# UI pressed a button. Pretty s
 
 ## Video
 
-![alt text](https://i.imgur.com/uVCm5AA.png)
+[![Watch the video](https://i.imgur.com/F3X1lLj.png)](https://youtu.be/RNVrfJ-AN1c)
+
 
 ## Credits
 
